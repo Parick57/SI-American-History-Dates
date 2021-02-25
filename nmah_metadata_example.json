@@ -1,0 +1,142 @@
+{
+  "id": "edanmdm-nmah_1452166",
+  "version": "",
+  "unitCode": "NMAH",
+  "linkedId": "0",
+  "type": "edanmdm",
+  "content": {
+    "descriptiveNonRepeating": {
+      "record_ID": "nmah_1452166",
+      "unit_code": "NMAH",
+      "title_sort": "PART OF MOLD",
+      "guid": "http://n2t.net/ark:/65665/ng49ca746b2-afe0-704b-e053-15f76fa0b4fa",
+      "title": {
+        "label": "Title",
+        "content": "Part of Mold"
+      },
+      "metadata_usage": {
+        "access": "CC0"
+      },
+      "data_source": "National Museum of American History"
+    },
+    "indexedStructured": {
+      "date": [
+        "1900s"
+      ],
+      "geoLocation": [
+        {
+          "Other": {
+            "type": "Place",
+            "content": "United States"
+          }
+        },
+        {
+          "points": {
+            "point": {
+              "latitude": {
+                "type": "decimal",
+                "content": "38"
+              },
+              "longitude": {
+                "type": "decimal",
+                "content": "-98"
+              }
+            }
+          }
+        }
+      ],
+      "object_type": [
+        "mold, butter/cheese, part of"
+      ],
+      "topic": [
+        "Food Processing"
+      ],
+      "place": [
+        "United States"
+      ],
+      "online_media_type": [
+        "Images"
+      ]
+    },
+    "freetext": {
+      "setName": [
+        {
+          "label": "See more items in",
+          "content": "Cultural and Community Life: Domestic Life"
+        }
+      ],
+      "date": [
+        {
+          "label": "date made",
+          "content": "1800 - 1900"
+        }
+      ],
+      "identifier": [
+        {
+          "label": "ID Number",
+          "content": "1990.0447.38C"
+        },
+        {
+          "label": "catalog number",
+          "content": "1990.0447.38C"
+        },
+        {
+          "label": "accession number",
+          "content": "1990.0447"
+        }
+      ],
+      "notes": [
+        {
+          "label": "Location",
+          "content": "Currently not on view"
+        }
+      ],
+      "creditLine": [
+        {
+          "label": "Credit Line",
+          "content": "Gift of Mrs. John H. Murray (Anne W. Murray)"
+        }
+      ],
+      "topic": [
+        {
+          "label": "subject",
+          "content": "Food Processing"
+        }
+      ],
+      "place": [
+        {
+          "label": "place made",
+          "content": "United States"
+        }
+      ],
+      "physicalDescription": [
+        {
+          "label": "Physical Description",
+          "content": "wood (overall material)"
+        },
+        {
+          "label": "Measurements",
+          "content": "overall: 5/16 in x 2 1/8 in x 13/16 in; .79375 cm x 5.3975 cm x 2.06375 cm"
+        }
+      ],
+      "dataSource": [
+        {
+          "label": "Data Source",
+          "content": "National Museum of American History"
+        }
+      ],
+      "objectType": [
+        {
+          "label": "Object Name",
+          "content": "mold, butter/cheese, part of"
+        }
+      ]
+    }
+  },
+  "url": "edanmdm:nmah_1452166",
+  "hash": "04e18de0e3d7412843a865d01a0cc38cb34c03ab",
+  "docSignature": "f79d9d4cb2e18f12dfec6baac87671cd59d74f8e_e7e0a9028e059ee437b4124fb64b1284",
+  "timestamp": 1594110152,
+  "lastTimeUpdated": 1594110106,
+  "title": "Part of Mold"
+}
