@@ -1,0 +1,9 @@
+name: nmah_open_access
+channels:
+  - defaults
+dependencies:
+  - notebook
+  - dask
+  - s3fs
+  - humanize
+prefix: /Users/triznam/miniconda3/envs/nmah_open_access
